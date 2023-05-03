@@ -27,3 +27,6 @@ net_revenue_per_product = (retail_price - wholesale price) * sales
 - How much did the store make from food vs. computers vs. books?
 
 - Because your store is doing so well, you’re able to negotiate a 30% discount on the wholesale price of goods. Calculate the new net revenue
+ 
+ 
+ that was all
