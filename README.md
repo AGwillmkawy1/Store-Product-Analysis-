@@ -30,3 +30,17 @@ net_revenue_per_product = (retail_price - wholesale price) * sales
  
  
  that was all
+
+
+
+
+# after doing all above tasks, we're requested to add another following task:
+
+
+In the recent project, we created a data frame representing our store’s products and sales. In
+this task, we’re going to extend that data frame, quite literally.
+
+
+The backstory for this task is as follows: Our local government is thinking about imposing a
+sales tax, and is thinking about 15, 20, and 25 percent rates. Show how much less you would net
+with each of these tax amounts by adding columns to the data frame for current income, as well.
